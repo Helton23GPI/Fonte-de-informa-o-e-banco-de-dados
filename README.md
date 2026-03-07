@@ -5,3 +5,4 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589915/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 <img width="635" height="354" alt="image" src="https://github.com/user-attachments/assets/186b2790-09b7-4a91-b067-a0b766853993" />
+[balancete_receita.xlsx](https://github.com/user-attachments/files/25808558/balancete_receita.xlsx)
