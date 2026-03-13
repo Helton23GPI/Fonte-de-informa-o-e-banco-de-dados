@@ -7,3 +7,4 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 <img width="635" height="354" alt="image" src="https://github.com/user-attachments/assets/186b2790-09b7-4a91-b067-a0b766853993" />
 
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25808558/balancete_receita.xlsx)
+<img width="1148" height="421" alt="image" src="https://github.com/user-attachments/assets/15e8cea1-f60a-400c-b5f8-28f1273c49cf" />
