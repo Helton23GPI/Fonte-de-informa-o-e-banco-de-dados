@@ -8,3 +8,7 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25808558/balancete_receita.xlsx)
 <img width="1148" height="421" alt="image" src="https://github.com/user-attachments/assets/15e8cea1-f60a-400c-b5f8-28f1273c49cf" />
+
+#Novo grafico
+[balancete_receita.xlsx](https://github.com/user-attachments/files/25956198/balancete_receita.xlsx)
+<img width="1168" height="410" alt="image" src="https://github.com/user-attachments/assets/fcfb86c1-b408-416f-8d5f-5dfe7586d86e" />
