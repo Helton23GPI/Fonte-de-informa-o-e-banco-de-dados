@@ -15,7 +15,8 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 
 
 
-![Uploading image.png…]()
+<img width="709" height="280" alt="image" src="https://github.com/user-attachments/assets/8fde1765-381d-46b8-9f8d-2feb80748460" />
+
 
 
 [CertificadoDeConclusao_Dicas Rapidas do Excel.pdf](https://github.com/user-attachments/files/26845557/CertificadoDeConclusao_Dicas.Rapidas.do.Excel.pdf)
