@@ -12,3 +12,6 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 #Novo grafico
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25956198/balancete_receita.xlsx)
 <img width="1168" height="410" alt="image" src="https://github.com/user-attachments/assets/fcfb86c1-b408-416f-8d5f-5dfe7586d86e" />
+[CertificadoDeConclusao_Dicas Rapidas do Excel.pdf](https://github.com/user-attachments/files/26845557/CertificadoDeConclusao_Dicas.Rapidas.do.Excel.pdf)
+[CertificadoDeConclusao_Como Aprender com Agilidade na Era da IA.pdf](https://github.com/user-attachments/files/26845555/CertificadoDeConclusao_Como.Aprender.com.Agilidade.na.Era.da.IA.pdf)
+[CertificadoDeConclusao_Aprofundese nas Funcoes PROC do Microsoft Excel.pdf](https://github.com/user-attachments/files/26845552/CertificadoDeConclusao_Aprofundese.nas.Funcoes.PROC.do.Microsoft.Excel.pdf)
