@@ -19,10 +19,12 @@ Apresentação confeccionada utilizando software Canva. Foi utilizada metodologi
 
 #Novo grafico
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25956198/balancete_receita.xlsx)
+
 <img width="1168" height="410" alt="image" src="https://github.com/user-attachments/assets/fcfb86c1-b408-416f-8d5f-5dfe7586d86e" />
 
 
 https://alstomgroup-my.sharepoint.com/:x:/p/helton_rodrigues/IQB-9euvowi5SIbRqNHucDwbAUhE3gqGW2xuS2tIks_JZzQ?email=fabio.peretta-ext%40alstomgroup.com&e=1w7Mjm
+
 <img width="709" height="280" alt="image" src="https://github.com/user-attachments/assets/8fde1765-381d-46b8-9f8d-2feb80748460" />
 
 [VOLUME-TRAVESSIAS-2019.xlsx](https://github.com/user-attachments/files/26845912/VOLUME-TRAVESSIAS-2019.xlsx)
@@ -40,6 +42,7 @@ https://alstomgroup-my.sharepoint.com/:x:/p/helton_rodrigues/IQB-9euvowi5SIbRqNH
 [CertificadoDeConclusao_Aprofundese nas Funcoes PROC do Microsoft Excel.pdf](https://github.com/user-attachments/files/26845552/CertificadoDeConclusao_Aprofundese.nas.Funcoes.PROC.do.Microsoft.Excel.pdf)
 <img width="467" height="350" alt="image" src="https://github.com/user-attachments/assets/67449185-0ef2-423f-81d7-968823a7678c" />
 
-
+POWER BI
 https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jOV2rlUAXsUIVfRSbAp1tOaQc2YyhU?email=fabio.peretta-ext%40alstomgroup.com&e=kcDO3s
+
 ![Uploading image.png…]()
