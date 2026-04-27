@@ -45,4 +45,3 @@ https://alstomgroup-my.sharepoint.com/:x:/p/helton_rodrigues/IQB-9euvowi5SIbRqNH
 POWER BI
 https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jOV2rlUAXsUIVfRSbAp1tOaQc2YyhU?email=fabio.peretta-ext%40alstomgroup.com&e=kcDO3s
 
-![Uploading image.png…]()
