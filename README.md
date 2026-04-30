@@ -35,12 +35,14 @@ https://alstomgroup-my.sharepoint.com/:x:/p/helton_rodrigues/IQB-9euvowi5SIbRqNH
 
 [CertificadoDeConclusao_Como Aprender com Agilidade na Era da IA.pdf](https://github.com/user-attachments/files/26845555/CertificadoDeConclusao_Como.Aprender.com.Agilidade.na.Era.da.IA.pdf)
 
-<img width="577" height="305" alt="image" src="https://github.com/user-attachments/assets/d0ebe274-3306-4191-86b1-e7f081014f8b" />
+src="https://github.com/user-attachments/assets/d0ebe274-3306-4191-86b1-e7f081014f8b" />
 
 <img width="479" height="355" alt="image" src="https://github.com/user-attachments/assets/6d0484ee-f526-4bdc-913f-dcb6eb3452c0" />
 
 [CertificadoDeConclusao_Aprofundese nas Funcoes PROC do Microsoft Excel.pdf](https://github.com/user-attachments/files/26845552/CertificadoDeConclusao_Aprofundese.nas.Funcoes.PROC.do.Microsoft.Excel.pdf)
 <img width="467" height="350" alt="image" src="https://github.com/user-attachments/assets/67449185-0ef2-423f-81d7-968823a7678c" />
+
+<img width="577" height="305" alt="image" 
 
 POWER BI
 https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jOV2rlUAXsUIVfRSbAp1tOaQc2YyhU?email=fabio.peretta-ext%40alstomgroup.com&e=kcDO3s
