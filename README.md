@@ -44,6 +44,9 @@ src="https://github.com/user-attachments/assets/d0ebe274-3306-4191-86b1-e7f08101
 
 <img width="577" height="305" alt="image" 
 
+
+
 POWER BI
 https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jOV2rlUAXsUIVfRSbAp1tOaQc2YyhU?email=fabio.peretta-ext%40alstomgroup.com&e=kcDO3s
+
 
