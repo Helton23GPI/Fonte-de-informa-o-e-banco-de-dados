@@ -57,4 +57,6 @@ https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jO
 Atividade Consumo de Cervejas
 <img width="1600" height="862" alt="WhatsApp Image 2026-06-11 at 21 01 21 (1)" src="https://github.com/user-attachments/assets/ad5690e2-e0b0-4d30-811d-d27ecab30073" />
 
+Atividade de temperatura de sorvetes e cervejas
+<img width="1600" height="868" alt="WhatsApp Image 2026-06-11 at 21 01 21" src="https://github.com/user-attachments/assets/6d96d2d7-92fd-43c2-b916-0821c624a918" />
 
