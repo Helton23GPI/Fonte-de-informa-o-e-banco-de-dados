@@ -51,12 +51,12 @@ https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jO
 
 <img width="1319" height="560" alt="image" src="https://github.com/user-attachments/assets/bec43cb8-3577-46fb-afb8-c9c9f28c1659" />
 
-#Venda de sorvetes
+Comparativo de sorvetes e cerveja
 <img width="1600" height="861" alt="WhatsApp Image 2026-06-11 at 21 01 22" src="https://github.com/user-attachments/assets/2f943555-ccf8-496f-99ea-e2881fb666f4" />
 
 Atividade Consumo de Cervejas
 <img width="1600" height="862" alt="WhatsApp Image 2026-06-11 at 21 01 21 (1)" src="https://github.com/user-attachments/assets/ad5690e2-e0b0-4d30-811d-d27ecab30073" />
 
-Atividade de temperatura de sorvetes e cervejas
+Atividade de temperatura de sorvetes
 <img width="1600" height="868" alt="WhatsApp Image 2026-06-11 at 21 01 21" src="https://github.com/user-attachments/assets/6d96d2d7-92fd-43c2-b916-0821c624a918" />
 
