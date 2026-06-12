@@ -54,7 +54,7 @@ https://alstomgroup-my.sharepoint.com/:u:/p/helton_rodrigues/IQAl9fMBQUmrTbVe_jO
 #Venda de sorvetes
 <img width="1600" height="861" alt="WhatsApp Image 2026-06-11 at 21 01 22" src="https://github.com/user-attachments/assets/2f943555-ccf8-496f-99ea-e2881fb666f4" />
 
-#Venda de cervejas
+Consumo de cervejas
 <img width="1600" height="862" alt="WhatsApp Image 2026-06-11 at 21 01 21 (1)" src="https://github.com/user-attachments/assets/ad5690e2-e0b0-4d30-811d-d27ecab30073" />
 
 
